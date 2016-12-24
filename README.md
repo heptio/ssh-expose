@@ -1,4 +1,6 @@
-## ssh-expose
+# ssh-expose
+
+[![GoDoc](https://godoc.org/github.com/heptio/ssh-expose?status.svg)](https://godoc.org/github.com/heptio/ssh-expose)
 
 A simple package that makes it easy to write a interactive command line program that can be used locally or served over SSH.
 
